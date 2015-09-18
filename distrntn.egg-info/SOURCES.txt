@@ -1,0 +1,13 @@
+setup.py
+distrntn/__init__.py
+distrntn/deepdist.py
+distrntn/distrntn.py
+distrntn/rntn.py
+distrntn/rwlock.py
+distrntn/sgd.py
+distrntn/tree.py
+distrntn.egg-info/PKG-INFO
+distrntn.egg-info/SOURCES.txt
+distrntn.egg-info/dependency_links.txt
+distrntn.egg-info/not-zip-safe
+distrntn.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+[Spark]
+SparkPythonPath = /Users/VAIO/Lib/spark-1.2.1-bin-hadoop2.4/python/
+Py4jPath = /Users/VAIO/Lib/spark-1.2.1-bin-hadoop2.4/python/lib/py4j-0.8.2.1-src.zip
+
+[distrntn]
+mode = local
+appname= DistRntn
+masterurl= localhost:5000
+#'n11.mta.ac.il:5000'

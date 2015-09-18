@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: distrntn
+Version: 0.1
+Summary: Distributing RNTN one tensor at a time
+Home-page: https://github.com/urirosenberg/rntn-spark
+Author: Uri Rosenbergs
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
